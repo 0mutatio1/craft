@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/craft/static/css/main.964fdded.css",
-    "main.js": "/craft/static/js/main.42b8a575.js",
-    "static/js/787.f6785078.chunk.js": "/craft/static/js/787.f6785078.chunk.js",
+    "main.css": "/craft/static/css/main.dc866daf.css",
+    "main.js": "/craft/static/js/main.d11bd9d8.js",
+    "static/js/787.c4dde30e.chunk.js": "/craft/static/js/787.c4dde30e.chunk.js",
     "index.html": "/craft/index.html",
-    "main.964fdded.css.map": "/craft/static/css/main.964fdded.css.map",
-    "main.42b8a575.js.map": "/craft/static/js/main.42b8a575.js.map",
-    "787.f6785078.chunk.js.map": "/craft/static/js/787.f6785078.chunk.js.map"
+    "main.dc866daf.css.map": "/craft/static/css/main.dc866daf.css.map",
+    "main.d11bd9d8.js.map": "/craft/static/js/main.d11bd9d8.js.map",
+    "787.c4dde30e.chunk.js.map": "/craft/static/js/787.c4dde30e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.42b8a575.js"
+    "static/css/main.dc866daf.css",
+    "static/js/main.d11bd9d8.js"
   ]
 }
