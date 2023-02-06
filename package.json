@@ -1,5 +1,5 @@
 {
-  "name": "my-qpp",
+  "name": "ui-project",
   "version": "0.1.0",
   "homepage": "https://0mutatio1.github.io/craft",
   "private": true,
@@ -39,6 +39,9 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "craft-ui": "0.0.2",
+    "gh-pages": "^5.0.0",
+    "react-router-dom": "^6.8.0",
+    "sass": "^1.58.0"
   }
 }

@@ -1,3 +1,18 @@
-.App {
+* { margin: 0; padding: 0 }
+body, html {
+  height: 100%;
+}
+
+.craft-app {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+#craft-error-page {
   text-align: center;
 }
